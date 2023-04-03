@@ -9,7 +9,7 @@
     "@actions/core": "^1.9.0",
     "@actions/artifact": "^1.1.0",
     "@actions/glob": "^0.3.0",
-    "execa": "^6.1.0",
+    "execa": "^7.1.1",
     "har-remix": "^7.0.0",
     "is-reachable": "^5.2.1",
     "tracerbench": "^7.0.0"

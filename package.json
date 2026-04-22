@@ -6,7 +6,7 @@
   "author": "Chris Thoburn <runspired@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.11.1",
+    "@actions/core": "^3.0.1",
     "@actions/artifact": "^2.2.1",
     "@actions/glob": "^0.5.0",
     "execa": "^9.5.2",
